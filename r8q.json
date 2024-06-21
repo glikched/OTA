@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-3.2-RELEASE-20240621-CORE-COMMUNITY-r8q-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/3.x/CORE/r8q/RisingOS-3.2-RELEASE-20240621-CORE-COMMUNITY-r8q-ota.zip/download",
+			"timestamp": 1718975572,
+			"md5": "d908e4b7ef01f93a8b799423b86a4526",
+			"sha256": "2ade0990dc87b9a60d674f25b7a5ec8742fa0cf63f2cc26d4bef6b3be757bdfa",
+			"size": 2275391803,
+			"version": "3.2-Janus",
+			"buildtype": "RELEASE",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
